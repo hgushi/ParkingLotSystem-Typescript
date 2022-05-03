@@ -26,7 +26,7 @@ interface veiculo {
             <td>${veiculo.placa}</td>
             <td>${veiculo.entrada}</td>
             <td>
-                <button class="delete" data-placa="${veiculo.placa}"></button>
+                <button class="delete" data-placa="${veiculo.placa}"> X </button>
             </td>
             `;
 
